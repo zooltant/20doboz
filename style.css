@@ -1,0 +1,38 @@
+.container1 {
+    display: flex;
+    align-items: center;
+    height: 40px; 
+    width: 440px; 
+    padding: 10px;
+    border-color: blue;
+    border-style: solid;
+    border-width: 2px;
+ }
+   
+ .item1 {
+   background: blue;
+   list-style-type: none;
+   width: 40px;
+   height: 40px;
+   margin-left: 4px;
+ }
+ 
+ .container2 {
+    display: flex;
+    align-items: center;
+    background: orange;
+    height: 40px; 
+    width: 440px; 
+    padding: 10px;
+    border-color: blue;
+    border-style: solid;
+    border-width: 2px;
+ }
+   
+ .item2 {
+   background: purple;
+   list-style-type: none;
+   width: 40px;
+   height: 40px;
+   margin-left: 4px;
+ }
